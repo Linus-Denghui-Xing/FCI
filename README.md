@@ -20,14 +20,11 @@ Details of the algorithm can be found in:
 
 ---------------
 
-**********************************************
 connected to Pyscf developed by Q.Sun, G.Chan
-**********************************************
+
 
 This code support the FCI calculation for small molecules.
 
-*************************************
-*************************************
 
 1. Define your own  molecule in coord.xyz
 
