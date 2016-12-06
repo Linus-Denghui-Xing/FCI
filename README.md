@@ -1,5 +1,5 @@
 # FCI_Caltech
-by Linus Deng-Hui.Xing
+by Linus Deng-Hui. Xing
 
 ---------------
 Details of the algorithm can be found in:
